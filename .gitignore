@@ -1,0 +1,9 @@
+.venv/
+.env
+CoverLetters/
+__pycache__/
+*.py[cod]
+
+# Personal source documents
+Resume/
+NewJobs/
